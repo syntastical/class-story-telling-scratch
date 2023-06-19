@@ -1,1 +1,3 @@
-# class-story-telling-scratch
+# Storytelling with Scratch
+
+https://scratch.mit.edu/
